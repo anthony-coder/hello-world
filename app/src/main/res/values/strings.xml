@@ -1,5 +1,5 @@
 <resources>
-    <string name="appTHIS IS AN ERRROR_name">WE ARE AWESOME</stringasdfasdfasdf>
+    <string name="app_name">WE ARE AWESOME</string>
 
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
